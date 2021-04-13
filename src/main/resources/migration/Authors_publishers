@@ -1,0 +1,3 @@
+
+INSERT INTO library.authors_publishers (author_id, publisher_id)
+VALUES (1, 1), (2,2)

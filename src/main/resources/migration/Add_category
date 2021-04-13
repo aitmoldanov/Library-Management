@@ -1,0 +1,2 @@
+INSERT INTO library.category(categoryName, author_id)
+VALUES ('cat1', 1), ('subs1', 2)
